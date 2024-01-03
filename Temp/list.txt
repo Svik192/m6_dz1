@@ -1,0 +1,60 @@
+Image: 
+	D:\python\m6\m6_dz1\Temp\6qJI_NbnY.jpeg
+	D:\python\m6\m6_dz1\Temp\8_arSH4Mji.png
+	D:\python\m6\m6_dz1\Temp\JELQ_WN7l.jpg
+	D:\python\m6\m6_dz1\Temp\Vschd9__k_.svg
+
+Video_files: 
+	D:\python\m6\m6_dz1\Temp\1\dgsgsdg Ч копи€ Ч копи€.mov
+	D:\python\m6\m6_dz1\Temp\1\dgsgsdg.mp4
+	D:\python\m6\m6_dz1\Temp\dgsgsdg Ч копи€ Ч копи€ Ч копи€.mkv
+	D:\python\m6\m6_dz1\Temp\dgsgsdg Ч копи€.avi
+
+Documents: 
+	D:\python\m6\m6_dz1\Temp\1\_7tvT_hR.txt
+	D:\python\m6\m6_dz1\Temp\2\A_z_MVWf.doc
+	D:\python\m6\m6_dz1\Temp\2\b7D6lx8B.pptx
+	D:\python\m6\m6_dz1\Temp\2\CHVSHEJIdyF.xlsx
+	D:\python\m6\m6_dz1\Temp\2vGjadUlJ.docx
+	D:\python\m6\m6_dz1\Temp\XHchrRgFa.pdf
+
+Music: 
+	D:\python\m6\m6_dz1\Temp\1\6qJI_NbnY.mp3
+	D:\python\m6\m6_dz1\Temp\1\8_arSH4Mji.wav
+	D:\python\m6\m6_dz1\Temp\Q_WN.ogg
+	D:\python\m6\m6_dz1\Temp\Vschd9__k_.amr
+
+Archives: 
+	D:\python\m6\m6_dz1\Temp\1\Aзћю”щщѓ.tar.gz
+	D:\python\m6\m6_dz1\Temp\1\LGZiPJjD.tar
+	D:\python\m6\m6_dz1\Temp\2\zip2image.zip
+
+Other: 
+	D:\python\m6\m6_dz1\Temp\2\JELQ_WN7l.111
+
+All extensions: 
+	PNG
+	MKV
+	MOV
+	OGG
+	PDF
+	ZIP
+	JPEG
+	JPG
+	AMR
+	MP3
+	GZ
+	SVG
+	TAR
+	PPTX
+	DOCX
+	TXT
+	XLSX
+	MP4
+	DOC
+	AVI
+	WAV
+
+Unknown extensions: 
+	111
+
